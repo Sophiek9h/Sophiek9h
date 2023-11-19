@@ -8,7 +8,7 @@
   - [Counter App](https://github.com/Sophiek9h/counter-app-using-java)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [How to make a counter app using Java](https://www.youtube.com)
 
