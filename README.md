@@ -1,7 +1,31 @@
-### Hi there 👋
+<h1>Hello, I'm Sophia!
+  <br/>
+<h3><a href="https://github.com/Sophiek9h">Programmer</a></h3> 
+
+<h2>👩🏾‍💻 Software Development Projects:</h2>
+
+- <b>Basic Android apps for beginners</b>
+  - [Counter App](https://github.com/)
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to make a counter app using Java](https://www.youtube.com)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[youtube]: http://www.youtube.com/@codewith-sophie
+[instagram]: https://www.instagram.com/_theycallmesophie_/
+[linkedin]: https://linkedin.com/in/sophia-kalagbor
 
 <!--
-**Sophiek9h/Sophiek9h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sophiek9h/sophiek9h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
