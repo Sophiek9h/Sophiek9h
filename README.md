@@ -4,8 +4,9 @@
 
 <h2>👩🏾‍💻 Software Development Projects:</h2>
 
-- <b>Basic Android apps for beginners</b>
+- <b>Android Apps</b>
   - [Counter App](https://github.com/Sophiek9h/counter-app-using-java)
+  - [Movie App](https://github.com/Sophiek9h/Movie_app)
 
 
 <h2>📺 YouTube Videos</h2>
