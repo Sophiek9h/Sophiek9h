@@ -7,6 +7,7 @@
 - <b>Android Apps</b>
   - [Counter App](https://github.com/Sophiek9h/counter-app-using-java)
   - [Movie App](https://github.com/Sophiek9h/Movie_app)
+  - [Quiz application](https://github.com/Sophiek9h/Quiz-app)
 
 
 <h2>📺 YouTube Videos</h2>
