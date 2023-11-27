@@ -8,6 +8,7 @@
   - [Counter App](https://github.com/Sophiek9h/counter-app-using-java)
   - [Movie App](https://github.com/Sophiek9h/Movie_app)
   - [Quiz application](https://github.com/Sophiek9h/Quiz-app)
+  - [Dollar to naira converter](https://github.com/Sophiek9h/Dollar_to_naira_converter)
 
 
 <h2>📺 YouTube Videos</h2>
