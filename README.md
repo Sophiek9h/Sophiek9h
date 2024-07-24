@@ -3,30 +3,23 @@
 <h3><a href="https://github.com/Sophiek9h">Programmer</a></h3> 
 
 <h2>👩🏾‍💻 Software Development Projects:</h2>
+<p>I am a highly motivated and detail-oriented software developer who loves a challenging and dynamic work environment. The founder of MashonaDev, a company that provides services for developers at the same time offers passive income to students in Africa</p>
 
-- <b>Android Apps</b>
+- <b>projects</b>
   - [Counter App](https://github.com/Sophiek9h/counter-app-using-java)
   - [Movie App](https://github.com/Sophiek9h/Movie_app)
   - [Quiz application](https://github.com/Sophiek9h/Quiz-app)
   - [Dollar to naira converter](https://github.com/Sophiek9h/Dollar_to_naira_converter)
   - [Volume Calculator](https://github.com/Sophiek9h/Volume-calculator)
+  - [Budget Tracker](https://github.com/Sophiek9h/BUDGET-TRACKER)
+  - [mytravelwishlist](https://github.com/Sophiek9h/mytravelwishlist)
+  - [shop easy](https://github.com/Sophiek9h/shopEasy)
 
-
-<h2>📺 YouTube Videos</h2>
-
-- [How to make a counter app using Java](https://www.youtube.com)
 
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="sophie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="sophie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sophie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[youtube]: http://www.youtube.com/@codewith-sophie
-[instagram]: https://www.instagram.com/_theycallmesophie_/
-[linkedin]: https://linkedin.com/in/sophia-kalagbor
 
 <!--
 **sophiek9h/sophiek9h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
