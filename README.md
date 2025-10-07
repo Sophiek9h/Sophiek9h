@@ -3,9 +3,10 @@
 <h3><a href="https://github.com/Sophiek9h">Programmer</a></h3> 
 
 <h2>👩🏾‍💻 Software Development Projects:</h2>
-<p>I am a highly motivated and detail-oriented software developer who loves a challenging and dynamic work environment. The founder and CEO of MashonaDev, a company that provides services for developers at the same time offers passive income to students in Africa</p>
+<p>I am a highly motivated and detail-oriented software developer who loves a challenging and dynamic work environment.</p>
 
-- <b>projects</b>
+
+<!-- - <b>projects</b>
   - [Counter App](https://github.com/Sophiek9h/counter-app-using-java)
   - [Movie App](https://github.com/Sophiek9h/Movie_app)
   - [Quiz application](https://github.com/Sophiek9h/Quiz-app)
