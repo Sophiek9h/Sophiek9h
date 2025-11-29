@@ -48,7 +48,7 @@ I’m passionate about creating seamless digital experiences, leading agile team
 ### Let's Connect
 - 📧 **Email:** [sophiakalagbor2@gmail.com](mailto:sophiakalagbor2@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/sophia-kalagbor](https://www.linkedin.com/in/sophia-kalagbor)  
-- 🌐 **Portfolio:** [sophia-kalagbor.vercel.app](https://sophia-kalagbor.vercel.app)  
+- 🌐 **Portfolio:** [sophia-kalagbor.vercel.app](http://sophia-kalagbor.pages.dev/)  
 
 <br/>
 
